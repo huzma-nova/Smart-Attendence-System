@@ -121,6 +121,11 @@ Click **Load Attendance** to see attendance sheet.
 - Login authentication  
 
 ---
+## 📸 Screen shot
+
+<img width="532" height="583" alt="image" src="https://github.com/user-attachments/assets/44ff81b2-beea-4de7-95d8-8e536540d933" />
+
+---
 
 ## 👩‍💻 Author
 
